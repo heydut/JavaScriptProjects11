@@ -18,5 +18,5 @@ input[type="text"]:focus {
   cursor: pointer;
 }
 .filtered {
-  display: none;
+  display: none !important;
 }
